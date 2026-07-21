@@ -16,7 +16,7 @@
 
 ### Desarrolladora web · Músico · Creativa · Analítica · Resolutiva
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=La+m%C3%BAsica+me+ense%C3%B1%C3%B3+el+ritmo%3B+el+c%C3%B3digo%2C+la+l%C3%B3gica.;Compongo+experiencias+digitales%2C+una+l%C3%ADnea+a+la+vez." alt="Texto animado: La música me enseñó el ritmo; el código, la lógica." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=La+m%C3%BAsica+me+ense%C3%B1%C3%B3+el+ritmo%3B+el+c%C3%B3digo%2C+la+l%C3%B3gica.;Compongo+experiencias+digitales" alt="Texto animado: La música me enseñó el ritmo; el código, la lógica." />
 
 </div>
 
