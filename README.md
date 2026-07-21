@@ -85,9 +85,7 @@ Estoy construyendo mi camino como desarrolladora Full Stack, aprendiendo con la 
 
 <div align="center">
 
-<!-- Sustituye TU_USUARIO_GITHUB para activar estas tarjetas -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=apariciodiazpatricia-cell&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=EC4899&text_color=F8FAFC" alt="Estadísticas de GitHub de Patricia" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apariciodiazpatricia-cell&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=F8FAFC" alt="Lenguajes más usados por Patricia" />
+
 
 <br />
 
