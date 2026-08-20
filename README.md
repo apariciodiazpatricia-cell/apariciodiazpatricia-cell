@@ -89,7 +89,7 @@ Estoy construyendo mi camino como desarrolladora Full Stack, aprendiendo con la 
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=apariciodiazpatricia-cell&theme=radical&hide_border=true&background=0D1117&ring=C084FC&fire=EC4899&currStreakLabel=F8FAFC" alt="Racha de contribuciones de GitHub de Patricia" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=apariciodiazpatricia-cell&theme=radical&hide_border=true&background=0D1117&ring=C084FC&fire=EC4899&currStreakLabel=F8FAFC" alt="Racha de contribuciones de GitHub de Patricia" />
 
 </div>
 
