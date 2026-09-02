@@ -86,14 +86,17 @@ Estoy construyendo mi camino como desarrolladora Full Stack, aprendiendo con la 
 
 ---
 
+<div align="center">
+
 ## 🎧 Lo que estoy componiendo ahora
 
-```text
-🎹  Aprendiendo: Java Script, React...
-🎼  Practicando: proyectos que convierten ideas en interfaces útiles
-🎤  Buscando: seguir uniendo creatividad, tecnología y buenas experiencias de usuario
+<p>
+🎹 &nbsp; Aprendiendo: JavaScript, React...<br>
+🎼 &nbsp; Practicando: proyectos que convierten ideas en interfaces útiles<br>
+🎤 &nbsp; Buscando: seguir uniendo creatividad, tecnología y buenas experiencias de usuario
+</p>
 
-```
+</div>
 
 
 
