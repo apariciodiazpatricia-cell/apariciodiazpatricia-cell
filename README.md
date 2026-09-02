@@ -125,9 +125,11 @@ Estoy construyendo mi camino como desarrolladora Full Stack, aprendiendo con la 
   <img src="https://img.shields.io/badge/Email-Hablemos-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un correo a Patricia" />
 </a>
 
-
-
-
+<div align="center">
+  <a href="https://portafolio-three-sepia.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00FF66&center=true&vCenter=true&width=400&height=50&lines=%F0%9F%9A%80+%C2%A1CLIC+AQU%C3%8D+PARA+VER+MI+PORTAFOLIO!+%F0%9F%8C%90" alt="Portafolio Animado" />
+  </a>
+</div>
 
 <sub><i>Cada proyecto es una nueva composición: ideas, pruebas, errores, ajustes...después ocurre la magia y te das cuenta de todo lo que eres capaz de crear.</i></sub>
 
