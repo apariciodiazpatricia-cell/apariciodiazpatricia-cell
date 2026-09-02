@@ -1,22 +1,38 @@
-<!--
-  README de perfil para GitHub
-  Antes de publicarlo, busca y sustituye: TU_USUARIO_GITHUB, TU_EMAIL y URL_DE_TU_PORTFOLIO.
-  Opcional: reemplaza las URL de banner y avatar por tus propias imágenes.
--->
-
 <div align="center">
 
-<!-- BANNER: cambia esta URL por la de tu propio banner cuando lo tengas -->
-<img width="1600" height="480" alt="banner-patricia-music-code" src="https://github.com/user-attachments/assets/3b81e12b-4103-42ac-84a2-c55aa00eb17f" />
+<!-- Banner vectorial con ondas, degradado tech (verde neón y naranja) y tu frase integrada -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,50:ff5500,100:9400d3&height=220&section=header&text=PATRICIA%20APARICIO&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IGNITING%20DIGITAL%20HARMONIES.%20CODE%20YOUR%20FREQUENCY.&descSize=16&descAlignY=62&animation=fadeIn&fontFamily=monospace" width="100%" alt="Patricia Aparicio Cyberpunk Banner" />
 
 
 
+<!-- Badges con estilo de etiquetas de código -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF66?style=flat-square&logo=reactivex&logoColor=000000" alt="Status">
+  <img src="https://img.shields.io/badge/STACK-MUSIC_%2B_CODE-FF5500?style=flat-square&logo=soundcharts&logoColor=fff" alt="Stack">
+  <img src="https://img.shields.io/badge/ENV-PRODUCTION-9400D3?style=flat-square&logo=linux&logoColor=fff" alt="Vibe">
+</p>
+
+---
+
+### `// 01. CORE_TECH & STACK`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,vscode,figma&theme=dark" alt="Skills Icons" />
+</p>
+
+---
+
+### `// 02. FREQUENCY & EXECUTION`
+> *"Transformando ondas sonoras en líneas de código y experiencias digitales extremas."*
+
+
+<div align="center">
 
 # ¡Hola! Soy Patri
 
 ### Desarrolladora web · Músico · Creativa · Analítica · Resolutiva
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=La+m%C3%BAsica+me+ense%C3%B1%C3%B3+el+ritmo%3B+el+c%C3%B3digo%2C+la+l%C3%B3gica.;Compongo+experiencias+digitales" alt="Texto animado: La música me enseñó el ritmo; el código, la lógica." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=La+m%C3%BAsica+me+ense%C3%B1%C3%B3+el+ritmo%3B+el+c%C3%B3digo%2C+la+l%C3%B3gica.;Compongo+experiencias+digitales" alt="Texto animado: La música me enseñó el ritmo; el código, la lógica." />
 
 </div>
 
@@ -38,7 +54,6 @@ Estoy construyendo mi camino como desarrolladora Full Stack, aprendiendo con la 
 <div align="center">
   <img src="https://img.shields.io/badge/-Creatividad-EC4899?style=for-the-badge" alt="Creatividad" />
   <img src="https://img.shields.io/badge/💻%20Código-Lógica-2563EB?style=for-the-badge" alt="Código: lógica" />
-  
 </div>
 
 ---
@@ -64,8 +79,8 @@ Estoy construyendo mi camino como desarrolladora Full Stack, aprendiendo con la 
 
 ### Aprendiendo y creando
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React: aprendiendo" />
-<img src="https://img.shields.io/badge/IA%20aplicada-Creative%20workflow-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="IA aplicada a flujos creativos" />
+<img src="https://img.shields.io/badge/React-Aprendiendo-00FF66?style=for-the-badge&logo=react&logoColor=000000" alt="React: aprendiendo" />
+<img src="https://img.shields.io/badge/IA%20aplicada-Creative%20Workflow-FF5500?style=for-the-badge&logo=openai&logoColor=white" alt="IA aplicada a flujos creativos" />
 
 </div>
 
@@ -77,9 +92,10 @@ Estoy construyendo mi camino como desarrolladora Full Stack, aprendiendo con la 
 🎹  Aprendiendo: Java Script, React...
 🎼  Practicando: proyectos que convierten ideas en interfaces útiles
 🎤  Buscando: seguir uniendo creatividad, tecnología y buenas experiencias de usuario
+
 ```
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -113,6 +129,6 @@ Estoy construyendo mi camino como desarrolladora Full Stack, aprendiendo con la 
 <sub><i>Cada proyecto es una nueva composición: ideas, pruebas, errores, ajustes...después ocurre la magia y te das cuenta de todo lo que eres capaz de crear.</i></sub>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:6D28D9,100:2563EB&height=110&section=footer" alt="Separador decorativo" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:FF5500,100:9400D3&height=110&section=footer" alt="Separador decorativo neón" width="100%" />
 
 </div>
