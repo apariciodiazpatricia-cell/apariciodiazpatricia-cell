@@ -117,7 +117,7 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
         <code>React</code> • <code>OpenWeather API</code> • <code>Audio/Video FX</code> • <code>State</code>
       </p>
       <p align="center">
-        <a href="https://vercel.com/apariciodiazpatricia-cells-projects"><b>🌐 Demo en Vivo</b></a> • 
+        <a href="https://valhalla-del-chatarrero.vercel.app/"><b>🌐 Demo en Vivo</b></a> • 
         <a href="https://github.com/apariciodiazpatricia-cell"><b>🐙 Repositorio</b></a>
       </p>
     </td>
