@@ -102,7 +102,7 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
         <code>React</code> • <code>Tailwind CSS</code> • <code>Figma UI/UX</code> • <code>Filtros</code>
       </p>
       <p align="center">
-        <a href="https://vercel.com/apariciodiazpatricia-cells-projects"><b>🌐 Demo en Vivo</b></a> • 
+        <a href="https://inmobiliaria-kappa-lake.vercel.app/"><b>🌐 Demo en Vivo</b></a> • 
         <a href="https://github.com/apariciodiazpatricia-cell"><b>🐙 Repositorio</b></a>
       </p>
     </td>
