@@ -48,31 +48,77 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
 
 ### `// 02. MI STACK TECNOLÓGICO & HERRAMIENTAS`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,vitest,nodejs,express,postgres,git,github,figma,vercel,postman,vscode&theme=dark" alt="Skills Matrix" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🎨 FRONTEND & UI</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite&theme=dark" alt="Frontend Stack" />
+      </p>
+      <ul>
+        <li><b>React 19 / 18:</b> Hooks, Context API, Custom Hooks, SPA</li>
+        <li><b>JavaScript ES6+:</b> Asincronía, Promesas, DOM, ESModules</li>
+        <li><b>Tailwind CSS & CSS3:</b> Flexbox, Grid, Animaciones, Neón</li>
+        <li><b>HTML5 Semántico:</b> Accesibilidad, SEO y Buenas Prácticas</li>
+        <li><b>Vite & React Router:</b> Bundling rápido y Rutas dinámicas</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">📐 DISEÑO UI/UX & HERRAMIENTAS</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,postman&theme=dark" alt="Design & Tools" />
+      </p>
+      <ul>
+        <li><b>Figma:</b> Design Systems, UI Tokens, Prototipos Interactivos</li>
+        <li><b>Stitch:</b> Diseño Generativo con Inteligencia Artificial</li>
+        <li><b>Git & GitHub:</b> Git Flow, Control de Versiones, Commits Semánticos</li>
+        <li><b>VS Code & Vercel:</b> Entorno de desarrollo y Despliegue CI/CD</li>
+        <li><b>Postman:</b> Depuración y consumo de APIs REST</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🧪 TESTING & CALIDAD</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=vitest,js,github&theme=dark" alt="Testing Stack" />
+      </p>
+      <ul>
+        <li><b>Vitest:</b> Test runners ultrarrápidos y suites unitarias</li>
+        <li><b>React Testing Library:</b> Pruebas de integración centradas en UX</li>
+        <li><b>Component Testing:</b> Mocks, comprobación de estados y eventos</li>
+        <li><b>Clean Code:</b> Código modular, Principios SOLID y DRY</li>
+        <li><b>QA Testing:</b> Validación estricta y aseguramiento de calidad</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">⚙️ BACKEND & IA (EN FORMACIÓN)</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" alt="Backend Stack" />
+      </p>
+      <ul>
+        <li><b>Node.js & Express:</b> Creación de servidores y endpoints REST</li>
+        <li><b>PostgreSQL & SQL:</b> Bases de datos relacionales y consultas</li>
+        <li><b>Google Gemini 2.5 Flash:</b> Asistentes inteligentes con IA</li>
+        <li><b>APIs RESTful:</b> Arquitectura CRUD y gestión de datos</li>
+        <li><b>Full Stack Pipeline:</b> Conexión frontend-backend fluida</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
+<div align="center">
+
 ```text
-┌───────────────────────────┬───────────────────────────┐
-│ 🎨 FRONTEND & UI          │ 📐 DISEÑO UI/UX & TOOLS   │
-├───────────────────────────┼───────────────────────────┤
-│ • React 19 / 18           │ • Figma (Tokens & UI/UX)  │
-│ • JavaScript Moderno ES6+ │ • Stitch (Generative UI)  │
-│ • Tailwind CSS            │ • Git & GitHub Flow       │
-│ • HTML5 Semántico & CSS3  │ • VS Code & Vercel Deploy │
-├───────────────────────────┼───────────────────────────┤
-│ 🧪 TESTING & QA           │ ⚙️ BACKEND & IA (EN CURSO)│
-├───────────────────────────┼───────────────────────────┤
-│ • Vitest (Unit Suites)    │ • Node.js & Express API   │
-│ • React Testing Library   │ • PostgreSQL & SQL        │
-│ • Component Testing       │ • Google Gemini 2.5 Flash │
-│ • Clean Code Standards    │ • RESTful CRUD Endpoints  │
-└───────────────────────────┴───────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────┐
+│ 🚀 SOFT SKILLS: Pensamiento Lógico • Trabajo en Equipo • Ritmo & Detalle  │
+│ 🎯 METODOLOGÍAS: Agile / Scrum • Git Flow • Clean Architecture • UX Focus │
+└───────────────────────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
