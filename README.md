@@ -152,7 +152,7 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
 
 <br><br>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=apariciodiazpatricia-cell&show_icons=true&theme=tokyonight&bg_color=050505&title_color=00FF66&icon_color=FFE600&text_color=A0A0A0&border_color=00FF66&border_radius=12" alt="GitHub Stats de Patri" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=apariciodiazpatricia-cell&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=050505&title_color=00FF66&icon_color=FFE600&text_color=A0A0A0&border_color=00FF66&border_radius=12" alt="GitHub Stats de Patri" />
 &nbsp;
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=apariciodiazpatricia-cell&theme=tokyonight&background=050505&ring=00FF66&fire=FFE600&currStreakLabel=00FFAA&border=00FF66&border_radius=12" alt="GitHub Streak de Patri" />
 
