@@ -139,9 +139,18 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
 
 ---
 
-### `// 04. GITHUB ACTIVITY & STREAK`
+### `// 04. GITHUB ACTIVITY & MATRIX SNAKE`
 
 <div align="center">
+
+<!-- 🐍 Snake Game Devorando el Historial de Contribuciones de GitHub -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apariciodiazpatricia-cell/apariciodiazpatricia-cell/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apariciodiazpatricia-cell/apariciodiazpatricia-cell/output/github-contribution-grid-snake.svg" />
+  <img alt="Patri Aparicio GitHub Contribution Snake Game" src="https://raw.githubusercontent.com/apariciodiazpatricia-cell/apariciodiazpatricia-cell/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=apariciodiazpatricia-cell&show_icons=true&theme=tokyonight&bg_color=050505&title_color=00FF66&icon_color=FFE600&text_color=A0A0A0&border_color=00FF66&border_radius=12" alt="GitHub Stats de Patri" />
 &nbsp;
