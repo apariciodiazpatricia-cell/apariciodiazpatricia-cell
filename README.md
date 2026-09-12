@@ -130,7 +130,7 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
         <code>React</code> • <code>API Propia (CRUD)</code> • <code>Meteo API</code> • <code>Tailwind</code>
       </p>
       <p align="center">
-        <a href="https://vercel.com/apariciodiazpatricia-cells-projects"><b>🌐 Demo en Vivo</b></a> • 
+        <a href="https://la-buhardilla-retro.vercel.app/"><b>🌐 Demo en Vivo</b></a> • 
         <a href="https://github.com/apariciodiazpatricia-cell"><b>🐙 Repositorio</b></a>
       </p>
     </td>
