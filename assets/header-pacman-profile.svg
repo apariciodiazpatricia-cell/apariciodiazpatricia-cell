@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="100%" height="210">
+  <defs>
+    <!-- Filtro Glow Neón Verde -->
+    <filter id="glow-green" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Filtro Glow Neón Amarillo -->
+    <filter id="glow-yellow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505" />
+      <stop offset="50%" stop-color="#0d140d" />
+      <stop offset="100%" stop-color="#020202" />
+    </linearGradient>
+
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF66" />
+      <stop offset="50%" stop-color="#FFE600" />
+      <stop offset="100%" stop-color="#00FFAA" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .neon-txt {
+      font-family: 'Consolas', 'Courier New', monospace, sans-serif;
+      font-weight: 900;
+      font-size: 54px;
+      fill: #00FF66;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+    .hud-txt {
+      font-family: 'Consolas', 'Courier New', monospace;
+      font-weight: bold;
+    }
+  </style>
+
+  <!-- Fondo Cyberpunk con Marco Neón -->
+  <rect x="2" y="2" width="896" height="206" rx="16" fill="url(#bg-grad)" stroke="url(#border-grad)" stroke-width="2.5" />
+
+  <!-- Líneas Tácticas -->
+  <line x1="20" y1="36" x2="880" y2="36" stroke="#00FF66" stroke-width="1" opacity="0.3" stroke-dasharray="6 6" />
+  <line x1="20" y1="172" x2="880" y2="172" stroke="#00FF66" stroke-width="1" opacity="0.3" stroke-dasharray="6 6" />
+
+  <!-- Telemetría Superior con Droide Scout -->
+  <text x="30" y="25" fill="#00FF66" font-size="11" class="hud-txt">[-O_O-] SCOUT_BOT // GITHUB PROFILE CORE // DEV_ID: PATRI_APARICIO</text>
+  <text x="695" y="25" fill="#FFE600" font-size="11" class="hud-txt">STATUS: READY_TO_WORK ⚡</text>
+
+  <!-- Pista de Letras en Verde Neón "PATRI APARICIO" centradas exactamente en Y=105 -->
+  <g filter="url(#glow-green)">
+    <!-- P -->
+    <text x="110" y="105" class="neon-txt">
+      P
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.10; 0.12; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- A -->
+    <text x="158" y="105" class="neon-txt">
+      A
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.15; 0.17; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- T -->
+    <text x="206" y="105" class="neon-txt">
+      T
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.21; 0.23; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- R -->
+    <text x="254" y="105" class="neon-txt">
+      R
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.26; 0.28; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- I -->
+    <text x="302" y="105" class="neon-txt">
+      I
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.32; 0.34; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+
+    <!-- Punto Divisor Táctico -->
+    <circle cx="350" cy="105" r="4.5" fill="#00FFAA">
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.37; 0.39; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- A -->
+    <text x="398" y="105" class="neon-txt">
+      A
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.43; 0.45; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- P -->
+    <text x="446" y="105" class="neon-txt">
+      P
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.48; 0.50; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- A -->
+    <text x="494" y="105" class="neon-txt">
+      A
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.54; 0.56; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- R -->
+    <text x="542" y="105" class="neon-txt">
+      R
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.60; 0.62; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- I -->
+    <text x="588" y="105" class="neon-txt">
+      I
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.65; 0.67; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- C -->
+    <text x="634" y="105" class="neon-txt">
+      C
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.71; 0.73; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- I -->
+    <text x="680" y="105" class="neon-txt">
+      I
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.76; 0.78; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- O -->
+    <text x="726" y="105" class="neon-txt">
+      O
+      <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.82; 0.84; 0.90; 0.94" dur="8s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <!-- PAC-MAN: Desplazamiento nativo EXACTAMENTE por la línea Y=105 -->
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="30,105; 850,105; 850,105"
+      keyTimes="0; 0.88; 1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+    <!-- Cuerpo de Pac-Man centrado en (0,0) -->
+    <g filter="url(#glow-yellow)">
+      <!-- Mandíbula Superior -->
+      <path d="M 0,0 L 28,0 A 28,28 0 0,0 -28,0 Z" fill="#FFE600">
+        <animateTransform
+          attributeName="transform"
+          type="rotate"
+          values="0 0 0; -35 0 0; 0 0 0"
+          dur="0.22s"
+          repeatCount="indefinite"
+        />
+      </path>
+      <!-- Mandíbula Inferior -->
+      <path d="M 0,0 L -28,0 A 28,28 0 0,0 28,0 Z" fill="#FFE600">
+        <animateTransform
+          attributeName="transform"
+          type="rotate"
+          values="0 0 0; 35 0 0; 0 0 0"
+          dur="0.22s"
+          repeatCount="indefinite"
+        />
+      </path>
+      <!-- Ojo -->
+      <circle cx="2" cy="-14" r="3.2" fill="#000000" />
+    </g>
+    <!-- Chispas Neón traseras -->
+    <circle cx="-32" cy="0" r="3" fill="#00FF66" opacity="0.8" />
+    <circle cx="-44" cy="0" r="2" fill="#FFE600" opacity="0.5" />
+  </g>
+
+  <!-- Subtítulo Táctico Inferior -->
+  <text x="450" y="193" text-anchor="middle" fill="#A0A0A0" font-size="12" class="hud-txt">
+    ⚡ &lt; FRONTEND DEVELOPER JUNIOR • REACT 19 • JAVASCRIPT ES6+ • SEVILLA &gt; ⚡
+  </text>
+</svg>
