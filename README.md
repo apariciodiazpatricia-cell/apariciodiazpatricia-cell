@@ -157,7 +157,7 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
     <td width="50%" valign="top">
       <h3 align="center">🛡️ VALHALLA DEL CHATARRERO</h3>
       <p align="center">
-        E-commerce inmersivo cyber-punk con clima meteorológico en directo y efectos FX.
+        E-commerce inmersivo estilo post.apocalíptico, con clima meteorológico en directo y efectos FX.
       </p>
       <p align="center">
         <code>React</code> • <code>OpenWeather API</code> • <code>Audio/Video FX</code> • <code>State</code>
