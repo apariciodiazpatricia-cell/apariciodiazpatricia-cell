@@ -136,7 +136,7 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
       </p>
       <p align="center">
         <a href="https://world-cup2026-sigma-weld.vercel.app/"><b>🌐 Demo en Vivo</b></a> • 
-        <a href="https://github.com/apariciodiazpatricia-cell"><b>🐙 Repositorio</b></a>
+        <a href="https://github.com/apariciodiazpatricia-cell/worldCup2026"><b>🐙 Repositorio</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -149,7 +149,7 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
       </p>
       <p align="center">
         <a href="https://inmobiliaria-kappa-lake.vercel.app/"><b>🌐 Demo en Vivo</b></a> • 
-        <a href="https://github.com/apariciodiazpatricia-cell"><b>🐙 Repositorio</b></a>
+        <a href="https://github.com/apariciodiazpatricia-cell/inmobiliaria"><b>🐙 Repositorio</b></a>
       </p>
     </td>
   </tr>
@@ -164,7 +164,7 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
       </p>
       <p align="center">
         <a href="https://valhalla-del-chatarrero.vercel.app/"><b>🌐 Demo en Vivo</b></a> • 
-        <a href="https://github.com/apariciodiazpatricia-cell"><b>🐙 Repositorio</b></a>
+        <a href="https://github.com/apariciodiazpatricia-cell/valhalla-del-chatarrero"><b>🐙 Repositorio</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -177,7 +177,7 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
       </p>
       <p align="center">
         <a href="https://la-buhardilla-retro.vercel.app/"><b>🌐 Demo en Vivo</b></a> • 
-        <a href="https://github.com/apariciodiazpatricia-cell"><b>🐙 Repositorio</b></a>
+        <a href="https://github.com/apariciodiazpatricia-cell/la-buhardilla-retro"><b>🐙 Repositorio</b></a>
       </p>
     </td>
   </tr>
