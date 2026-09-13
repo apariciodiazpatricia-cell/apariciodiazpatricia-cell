@@ -7,7 +7,7 @@
 
 <!-- Badges Cyberpunk de Especialidades -->
 <p align="center">
-  <a href="https://world-cup2026-sigma-weld.vercel.app/">
+  <a href="https://patricia-aparicio-dev.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-CYBERPUNK_MATRIX-00FF66?style=for-the-badge&logo=matrix&logoColor=black&labelColor=0d1117" alt="Portfolio Live" />
   </a>
   <img src="https://img.shields.io/badge/ROLE-FRONTEND_DEVELOPER_JUNIOR-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" alt="React" />
@@ -18,7 +18,7 @@
 </p>
 
 <!-- Typing SVG Animado -->
-<a href="https://world-cup2026-sigma-weld.vercel.app/">
+<a href="https://patricia-aparicio-dev.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=680&lines=%E2%9A%A1+Desarrolladora+Frontend+Junior+%7C+React+19+%2B+JS+ES6%2B;%F0%9F%8E%AE+Pac-Man+Lover+%26+Apasionada+por+el+C%C3%B3digo+Limpio;%F0%9F%A7%A0+Integraci%C3%B3n+de+Google+Gemini+2.5+Flash+API;%F0%9F%8F%99%EF%B8%8F+Sevilla%2C+Espa%C3%B1a+%E2%80%A2+Disponibilidad+Inmediata+%F0%9F%9A%80" alt="Typing Headline" />
 </a>
 
@@ -233,7 +233,7 @@ Disfruto creando componentes limpios y modulares en **React**, aplicando maqueta
         <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
       &nbsp;
-      <a href="https://world-cup2026-sigma-weld.vercel.app/">
+      <a href="https://patricia-aparicio-dev.vercel.app/">
         <img src="https://img.shields.io/badge/PORTFOLIO_WEB-00FF66?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
       </a>
       <br><br>
